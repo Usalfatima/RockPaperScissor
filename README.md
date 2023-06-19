@@ -1,6 +1,4 @@
 # RockPaperScissor
-
-
 import random
 
 def player(prev_play, opponent_history=[]):
